@@ -1,3 +1,7 @@
+ESPWEATHERSTATION (ESP32-S3 SUPERMINI & GC9A01)
+
+A professional minimalist weather station built with the compact ESP32-S3 SuperMini and a GC9A01 circular display. This project features a smooth UI powered by LVGL and an easy code-free configuration via WiFiManager.
+
 FEATURES
 Modern Circular UI Optimized for 240x240 px round displays
 Smart Geocoding Automatically finds coordinates for any city name using the Nominatim API
